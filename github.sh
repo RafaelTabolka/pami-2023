@@ -12,9 +12,9 @@ export branch_name="aula-$(date -I)"
 
 #add linux, mac and windows folders to gitignore
 echo "" >> .gitignore
-echo "#ignoring windows, mac and linux folders" >> .gitignore
+echo "#ignoring windows, macos and linux folders" >> .gitignore
 echo "windows" >> .gitignore
-echo "mac" >> .gitignore
+echo "macos" >> .gitignore
 echo "linux" >> .gitignore
 
 git init

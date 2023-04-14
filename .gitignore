@@ -42,12 +42,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-#ignoring windows, mac and linux folders
-windows
-mac
-linux
 
-#ignoring windows, mac and linux folders
+#ignoring windows, macos and linux folders
 windows
-mac
+macos
 linux
